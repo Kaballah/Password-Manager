@@ -16,8 +16,8 @@ To obtain the application, you can use one of these options:
 - To use the Password Manager, follow these steps:
 
 **1. Download the Application:**
-+ Visit the GitHub release page.
-+ Download the latest release package (Password_Manager_v1.0.0.zip).
++ Visit the [GitHub release page](https://github.com/Kaballah/Password-Manager/releases/tag/password_manager).
++ Download the latest release package (Password-Manager.exe) or (Source Code (zip)).
 
 **2. Extract the Package:** 
 + Once downloaded, unzip the package to your preferred location on your computer.
